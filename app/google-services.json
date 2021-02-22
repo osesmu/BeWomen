@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309426996045",
+    "project_id": "bewomen-a9b45",
+    "storage_bucket": "bewomen-a9b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309426996045:android:423d9650e9338213f0ad04",
+        "android_client_info": {
+          "package_name": "com.example.telegrus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309426996045-s09u4c4k23pmaisgf55dn00831beblug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrWO7OXdukzkJw5oFRwTYex2FZBfTwTRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309426996045-s09u4c4k23pmaisgf55dn00831beblug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
